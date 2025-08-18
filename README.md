@@ -28,6 +28,11 @@ Foi desenvolvido como parte do **Desafio 3 do programa OneG8 Oracle-Alura**, uti
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/seu-usuario/seu-repositorio.git]
+2. Execute o notebook:
+   ```bash
+   
+3.  Carregue o arquivo de dados:
+   
 ## 📊 Avaliação do Modelo
 O modelo foi avaliado com as seguintes métricas:
 - Acurácia
