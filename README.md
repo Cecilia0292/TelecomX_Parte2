@@ -41,8 +41,10 @@ O modelo foi avaliado com as seguintes métricas:
 O modelo foi salvo com pickle:
 Para mais detalhes sobre como funciona a serialização com `pickle`, consulte a [documentação oficial do Python](https://docs.python.org/pt-br/3/library/pickle.html).
 
-##🎓 Sobre o Desafio
+## 🎓 Sobre o Desafio
 Este projeto faz parte do Desafio OneG8, uma iniciativa promovida pela Oracle em parceria com a Alura, com o objetivo de capacitar talentos em tecnologia e estimular o desenvolvimento de soluções práticas com Python e ciência de dados.
 
-##✨ Autor Projeto desenvolvido por Ruthe Cecilia com 💙 e curiosidade científica.
+## ✨ Autor Projeto
+Desenvolvido por Ruthe Cecilia com 💙 e curiosidade científica.
+
 #### 💡 Algumas ideias e trechos de código foram gerados com a ajuda do [Copilot da Microsoft](https://copilot.microsoft.com), meu parceiro virtual durante o desenvolvimento.
