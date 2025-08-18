@@ -1,4 +1,4 @@
-# Telecom-X-Parte-2:# 🔍 Regressão Logística para Classificação Binária
+# Telecom-X-Parte-2:🔍 Desenvolver modelos preditivos capazes de prever quais clientes têm maior chance de cancelar seus serviços.
 
 Este projeto foi desenvolvido como parte do **Desafio 3 do programa OneG8 Oracle-Alura**, aplicando **Regressão Logística** para resolver um problema de classificação binária. O modelo foi treinado, avaliado com métricas clássicas e salvo com `pickle` para reutilização futura.
 
@@ -7,7 +7,7 @@ Este projeto foi desenvolvido como parte do **Desafio 3 do programa OneG8 Oracle
 ## 📁 Estrutura do Projeto
 
 - `modelo_regressao_logistica.pkl` — Modelo treinado salvo com `pickle`
-- `notebooks/` — Scripts e análises em Python
+- `Telecom_X_2_0` — Scripts e análises em Python
 ---
 
 ## ⚙️ Tecnologias Utilizadas
