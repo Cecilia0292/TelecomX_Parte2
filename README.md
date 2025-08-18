@@ -49,4 +49,4 @@ Para mais detalhes sobre como funciona a serialização com `pickle`, consulte a
 Este projeto faz parte do Desafio OneG8, uma iniciativa promovida pela Oracle em parceria com a Alura, com o objetivo de capacitar talentos em tecnologia e estimular o desenvolvimento de soluções práticas com Python e ciência de dados.
 
 ##✨ Autor Projeto desenvolvido por Ruthe Cecilia com 💙 e curiosidade científica.
-## Ajustado com a ajuda do Copilot versao 
+#### 💡 Algumas ideias e trechos de código foram gerados com a ajuda do [Copilot da Microsoft](https://copilot.microsoft.com), meu parceiro virtual durante o desenvolvimento.
