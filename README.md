@@ -1,6 +1,6 @@
 # 📊 Telecom-X Parte 2 — Cancelamento de Clientes
 
-🔍 Este projeto tem como objetivo desenvolver modelos preditivos capazes de identificar quais clientes têm maior probabilidade de cancelar seus serviços.
+Este projeto teve como objetivo desenvolver modelos preditivos capazes de identificar quais clientes têm maior probabilidade de cancelar seus serviços.
 
 Foi desenvolvido como parte do **Desafio 3 do programa OneG8 Oracle-Alura**, utilizando **Regressão Logística** para resolver um problema de **classificação binária**. O modelo foi treinado, avaliado com métricas clássicas e salvo com `pickle` para reutilização futura.
 
@@ -23,13 +23,14 @@ Foi desenvolvido como parte do **Desafio 3 do programa OneG8 Oracle-Alura**, uti
 
 ---
 
-## 🚀 Como Executar
+## 🚀 Como Executar o modelo
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git]
+   git clone https://github.com/Cecilia0292/TelecomX_Parte2
    
 ## 📊 Avaliação do Modelo
+
 O modelo foi avaliado com as seguintes métricas:
 - Acurácia
 - ROC AUC
