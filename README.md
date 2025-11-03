@@ -1,4 +1,4 @@
-# 📊 Telecom-X Parte 2 — Cancelamento de Clientes
+# 📊 Telecom-X Parte 2 — Modelos Preditivos
 
 Este projeto teve como objetivo desenvolver modelos preditivos capazes de identificar quais clientes têm maior probabilidade de cancelar seus serviços.
 
